@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import { book } from 'vite-plugin-book/vite';
 
 export default defineConfig({
-    base: './',
+    base: '/php-course/',
     plugins: [
         book({
             name: 'PHP course',
