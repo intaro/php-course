@@ -1,0 +1,13 @@
+{
+  "name": "intaro-php-course",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7",
+    "vite-plugin-book": "^0.0.8"
+  }
+}
