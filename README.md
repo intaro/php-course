@@ -1,3 +1,3 @@
 # Цикл конспектов для курса **"ЛГТУ. Технологии разработки WEB-приложений"**
 
-https://intaro.github.io/php-course/
+# https://intaro.github.io/php-course/
